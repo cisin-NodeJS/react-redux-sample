@@ -1,0 +1,4 @@
+{
+    "main": "./guestHome.pages.js",
+    "private": true
+}

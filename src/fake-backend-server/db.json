@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "fname": "Zee",
+      "lname": "shan",
+      "email": "mohammad.z@cisinlabs.com",
+      "password": "123456"
+    },
+    {
+      "fname": "Zee",
+      "lname": "shan 1",
+      "email": "mohammad.ze@cisinlabs.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "productName": "mango",
+      "productPrice": "55",
+      "id": 4
+    },
+    {
+      "productName": "apple",
+      "productPrice": "160",
+      "id": 5
+    },
+    {
+      "productName": "asdasda",
+      "productPrice": "88",
+      "isEditModalOpen": false,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "productName": "zzzzzzzzzz",
+      "productPrice": "20",
+      "isEditModalOpen": false
+    }
+  ]
+}
